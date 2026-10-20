@@ -1,0 +1,25 @@
+// Màu dùng chung cho cả ứng dụng
+export const colors = {
+  background: '#F6F4F1',
+  surface: '#FFFFFF',
+  ink: '#1E1A17',
+  label: '#4A423C',
+  muted: '#675E57',
+  placeholder: '#776D66',
+  line: '#ECE7E2',
+  border: '#D8CFC8',
+  chip: '#F1ECE8',
+  primary: '#C2410C',
+  primarySoft: '#FDEEE5',
+  primaryMuted: '#EFA27E',
+  success: '#166534',
+  successSoft: '#E6F4EA',
+  warning: '#92400E',
+  warningSoft: '#FEF3D8',
+  danger: '#B3261E',
+  dangerSoft: '#FCEBEA',
+  info: '#1D4ED8',
+  infoSoft: '#E8EEFD',
+  // Nền mờ phủ sau hộp thoại
+  scrim: 'rgba(30, 26, 23, 0.56)',
+};
