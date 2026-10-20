@@ -6,6 +6,7 @@ Bài kiểm tra giữa kỳ môn Phát triển ứng dụng di động.
 - **MSSV:** BIT240002
 - **Công nghệ:** React Native (Expo SDK 57, Expo Router, TypeScript)
 - **Lưu trữ:** SQLite trên máy (`expo-sqlite`), đồng bộ hai chiều với MockAPI qua REST API
+- **Video 1 (demo ứng dụng):** [Xem trên Google Drive](https://drive.google.com/file/d/1jhR_X3GHaGVqhvk9KPV4JrAEryTsT18P/view?usp=sharing)
 
 ## Chạy ứng dụng
 
