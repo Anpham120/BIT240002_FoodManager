@@ -7,7 +7,8 @@ Bài kiểm tra giữa kỳ môn Phát triển ứng dụng di động.
 - **Công nghệ:** React Native (Expo SDK 57, Expo Router, TypeScript)
 - **Lưu trữ:** SQLite trên máy (`expo-sqlite`), đồng bộ hai chiều với MockAPI qua REST API
 - **Video 1 (demo ứng dụng):** [Xem trên Google Drive](https://drive.google.com/file/d/1jhR_X3GHaGVqhvk9KPV4JrAEryTsT18P/view?usp=sharing)
-
+-**Video 2 (giải thích code):** [Xem trên Google Drive](https://drive.google.com/file/d/1u8nJh64S_WwdNJla1E_ydR0GbxnD1SMu/view?usp=sharing)
+-
 ## Chạy ứng dụng
 
 Yêu cầu: Node.js 22 trở lên (đã chạy với Node 24), Expo Go hỗ trợ SDK 57 hoặc Android emulator.
