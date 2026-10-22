@@ -8,7 +8,6 @@ Bài kiểm tra giữa kỳ môn Phát triển ứng dụng di động.
 - **Lưu trữ:** SQLite trên máy (`expo-sqlite`), đồng bộ hai chiều với MockAPI qua REST API
 - **Video 1 (demo ứng dụng):** [Xem trên Google Drive](https://drive.google.com/file/d/1jhR_X3GHaGVqhvk9KPV4JrAEryTsT18P/view?usp=sharing)
 - **Video 2 (thuyết minh mã nguồn và chức năng):** [Xem trên Google Drive](https://drive.google.com/file/d/1u8nJh64S_WwdNJla1E_ydR0GbxnD1SMu/view?usp=sharing)
-- **Video 2 (giải thích code):** [Xem trên Google Drive](https://drive.google.com/file/d/1u8nJh64S_WwdNJla1E_ydR0GbxnD1SMu/view?usp=sharing)
 
 ## Chạy ứng dụng
 
